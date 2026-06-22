@@ -1,4 +1,4 @@
-# Hi I'm Katrin 
+# Hi I'm Katrin Manalu
 
 Computer Science student with interests in Web Development, Backend Development, and Software Engineering.
 
