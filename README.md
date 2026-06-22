@@ -1,6 +1,6 @@
 # Hi I'm Katrin Manalu
 
-Computer Science student with interests in Web Development, Backend Development, and Software Engineering.
+Computer Science student with interests in Full Stack Development, Data Analytics, and Cloud Computing.
 
 ## Tech Stack
 
